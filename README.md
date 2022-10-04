@@ -2,7 +2,7 @@
 Simple currency converter
 
 ## Demo
-(https://marcinmachnicki.github.io/currency-converter/)
+https://marcinmachnicki.github.io/currency-converter/
 ## Preview
 
 ## Tech
