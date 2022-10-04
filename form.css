@@ -1,0 +1,27 @@
+.form__lebelText {
+    display: inline-block;
+    max-width: 150px;
+    width: 100%;
+    margin-right: 5px;
+}
+
+.form__field {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.form__fieldset {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 10px;
+}
+
+.form__legend {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #e8e8e8;
+    font-size: 19px;
+}
