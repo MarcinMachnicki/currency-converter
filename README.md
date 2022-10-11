@@ -5,7 +5,7 @@ Simple currency converter
 https://marcinmachnicki.github.io/currency-converter/
 
 ## Preview
-![gif](https://github.com/MarcinMachnicki/currency-converter/blob/master/images/money-background.jpghttps://github.com/MarcinMachnicki/currency-converter/blob/master/images/money-background.jpg)
+![gif](https://raw.githubusercontent.com/MarcinMachnicki/currency-converter/master/images/gif.gif)
 
 ## Tech
 ![HTML](https://github.com/MarcinMachnicki/homepage/blob/9c629847fc1c63d7617ccb319811b7c2686302d4/images/Untitled-1.png)
