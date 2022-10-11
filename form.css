@@ -14,8 +14,9 @@
 .form__fieldset {
     border: 1px solid #ccc;
     padding: 15px;
-    margin: 15px 0;
+    margin: 325px 0;
     border-radius: 10px;
+    background-color: gray;
 }
 
 .form__legend {
